@@ -1,8 +1,9 @@
 ### Hi there 👋
 
- 🌱 I’m currently learning ...
-![Github stats](https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=radical) 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=dark)
+ 🌱 I’m currently learning  in Platzi Master
+ 
+![Github stats](https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=dark) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=dark)
+
 <!--
 **AbejaCruz/AbejaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
