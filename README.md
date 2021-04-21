@@ -1,7 +1,9 @@
 ###  Hi! I'm Diego Cruz - Web Developer👋
 
  😎 I had worked in tech for 3 years
+ 
  🌱 I’m currently learning  in Platzi Master.
+ 
 👨🏽‍💻 As developer i had worked with (and more):
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code> 
