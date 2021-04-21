@@ -13,7 +13,7 @@
 
 ## 👨‍💻 This week, I spent my time on:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbejaCruz)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbejaCruz&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AbejaCruz/AbejaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
