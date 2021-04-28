@@ -1,6 +1,6 @@
 ###  Hi! I'm Diego Cruz - Web Developer👋
 
- 😎 I had worked in tech for 3 years
+ 😎 He worked in technology for more than 3 years.
  
  🌱 I’m currently learning  in Platzi Master.
  
