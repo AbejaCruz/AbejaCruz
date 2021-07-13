@@ -38,8 +38,7 @@
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=dark) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=dark)
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=dark) 
 
 ## 👨‍💻 This week, I spent my time on:
 
