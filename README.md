@@ -37,24 +37,11 @@
 
 ---
 
-### 📜 Certifications
-- ☁️ **AWS Certified Solutions Architect – Associate**
-- 🛡️ **AWS Cloud Quest:** Security
-- ☁️ **AWS Cloud Quest:** Cloud Practitioner
-
----
-
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AbejaCruz&theme=dark&v=2" />
-  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
