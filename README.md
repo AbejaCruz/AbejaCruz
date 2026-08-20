@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- ⚡ **Cloud Engineer II** with 6+ years of experience in software development, cloud infrastructure, and DevOps practices.
-- 🛠️ Specialized in **Infrastructure as Code (IaC)** using **Pulumi**, cloud architecture on **AWS**, and building scalable **CI/CD pipelines**.
-- 🏆 **AWS Certified Solutions Architect – Associate** with focus on security, high availability, and operational excellence.
-- 🎓 Passionate about continuous learning and tech communities.
+- ⚡ **Cloud Engineer II** with 6+ years of experience in software engineering, cloud infrastructure (AWS), and DevOps practices.
+- 🛠️ Specialized in **Infrastructure as Code (IaC)** with **Pulumi**, automated **CI/CD pipelines**, and high-throughput REST APIs.
+- 🏆 **AWS Certified Solutions Architect – Associate** with a focus on security, high availability, and operational excellence.
+- 🎓 **B.S. in Systems Engineering** with experience working alongside US-based engineering teams in cloud and data platforms.
 
 ---
 
@@ -26,27 +26,48 @@
   <br>
   <!-- Backend & Languages -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <br>
-  <!-- Databases -->
+  <!-- Databases & Testing -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity<p align="center">
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=tokyonight&hide_border=true" alt="Diego's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=AbejaCruz&show_icons=true&theme=tokyonight&hide_border=true" alt="Diego's GitHub Stats" />
 
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AbejaCruz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</a>
+
+</p> 
+
+
+
+---
+
+### 💼 Highlights & Experience
+- **Cloud Infrastructure & Data Pipelines:** Designing and maintaining IaC stacks with Pulumi on AWS for enterprise data platform teams.
+- **Backend & API Systems:** Engineered resilient, high-throughput RESTful services and automated data-processing pipelines for US health/regulatory domains.
+- **Interactive Tech & VR/AR:** Developed backend services for immersive AR/VR applications for major global brands (Honda, Corona, Homecenter, Bavaria).
+
+---
+
+### 🎓 Education & Certifications
+- 📜 **AWS Certified Solutions Architect – Associate**
+- 🎓 **B.S. in Systems Engineering** — *Universidad Distrital Francisco José de Caldas*
+- 🚀 **Platzi Master** — *Backend Developer Specialization*
 
 ---
 
