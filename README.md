@@ -40,15 +40,18 @@
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Opción 1: Servidor Espejo de GitHub Stats -->
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AbejaCruz&show_icons=true&theme=tokyonight&hide_border=true" alt="Diego's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbejaCruz&show_icons=true&theme=tokyonight&hide_border=true" alt="Diego's GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbejaCruz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Opción 2: GitHub Streak Stats (Suele ser muy estable y no da error de Fetching) -->
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AbejaCruz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+### 💻 Featured Projects
+- 🛠️ **[turist-agent](https://github.com/AbejaCruz/turist-agent)** — Intelligent tourism agent platform built with Next.js, focused on performance optimization and analytics.
 
 ---
 
